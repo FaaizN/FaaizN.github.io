@@ -1,5 +1,3 @@
-github:
-  is_project_page: false
 ## Welcome to My Website!
 
 Below you will find a list of projects that I have worked on in my spare time\
