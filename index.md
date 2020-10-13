@@ -1,6 +1,6 @@
 ## Welcome to My Website!
 
-Below you will find a list of projects that I have worked on in my spare time<br/><br/>
+Below you will find a list of projects that I have worked on in my spare time\
 You can use the [editor on GitHub](https://github.com/FaaizN/FaaizN.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
