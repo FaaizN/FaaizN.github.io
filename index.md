@@ -3,9 +3,6 @@
 Below you will find a list of projects that I have worked on in my spare time
 
 ```
-
-
-this is some random text
-
+hello to everyone except amaan
 
 ```
