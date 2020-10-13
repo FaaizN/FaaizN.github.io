@@ -1,4 +1,4 @@
-## Welcome to My Website!
+## My name is Faaiz Nadeem and this is my website!
 
 Below you will find a list of projects that I have worked on in my spare time\
 You can use the [editor on GitHub](https://github.com/FaaizN/FaaizN.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
